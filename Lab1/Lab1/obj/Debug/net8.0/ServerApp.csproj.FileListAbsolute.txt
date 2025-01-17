@@ -1,0 +1,14 @@
+E:\C#-storage\Lab1\Lab1\bin\Debug\net8.0\ServerApp.exe
+E:\C#-storage\Lab1\Lab1\bin\Debug\net8.0\ServerApp.deps.json
+E:\C#-storage\Lab1\Lab1\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+E:\C#-storage\Lab1\Lab1\bin\Debug\net8.0\ServerApp.dll
+E:\C#-storage\Lab1\Lab1\bin\Debug\net8.0\ServerApp.pdb
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.dll
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\refint\ServerApp.dll
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.pdb
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+E:\C#-storage\Lab1\Lab1\obj\Debug\net8.0\ref\ServerApp.dll
